@@ -1,15 +1,19 @@
-# personal-AI-tool-tracker
-Keep a list of  AI tools I find cool to explore 
+# Personal AI Tool Tracker
 
+This is a list of AI tools I find interesting and wish to explore further.
 
-# AI Sites
-- [x] ChatGPT
--   Duh
-- [ ] Suno.com
-- [ ] udio.com
-- [ ] poe.com
-- [ ] runway.ml
-- [ ] vidyo.ai
-- https://fadr.com/
+## Checked AI Sites
+- [x] [ChatGPT](https://www.openai.com/chatgpt) - Definitely a favorite!
+  
+## Unchecked AI Sites
+- [ ] [Suno.com](https://suno.com)
+- [ ] [udio.com](https://udio.com)
+- [ ] [poe.com](https://poe.com)
+- [ ] [runway.ml](https://runway.ml)
+- [ ] [vidyo.ai](https://vidyo.ai)
 
-Reference: https://github.com/whoisdsmith/AI-MTHRFCKR?tab=readme-ov-file
+## Additional Resource
+- [Fadr.com](https://fadr.com/)
+
+## Reference
+For more information, you can visit [this GitHub repository](https://github.com/whoisdsmith/AI-MTHRFCKR?tab=readme-ov-file).
