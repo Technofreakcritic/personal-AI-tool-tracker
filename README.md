@@ -10,6 +10,6 @@ Keep a list of  AI tools I find cool to explore
 - [ ] poe.com
 - [ ] runway.ml
 - [ ] vidyo.ai
-
+- https://fadr.com/
 
 Reference: https://github.com/whoisdsmith/AI-MTHRFCKR?tab=readme-ov-file
