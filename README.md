@@ -6,6 +6,7 @@ Keep a list of  AI tools I find cool to explore
 - [x] ChatGPT
 -   Duh
 - [ ] Suno.com
+- [ ] udio.com
 - [ ] poe.com
 - [ ] runway.ml
 - [ ] vidyo.ai
